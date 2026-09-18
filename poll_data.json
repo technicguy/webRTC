@@ -1,0 +1,20 @@
+{
+    "rooms": {
+        "4": {
+            "status": "idle",
+            "sdp": null,
+            "staff_sdp": null,
+            "ice": [],
+            "staff_ice": [],
+            "updated": 1777879976
+        },
+        "1": {
+            "status": "idle",
+            "sdp": null,
+            "staff_sdp": null,
+            "ice": [],
+            "staff_ice": [],
+            "updated": 1777878569
+        }
+    }
+}
